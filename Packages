@@ -14,3 +14,19 @@ Description: Enable and fix Dynamic Island on older devices.
 Author: ethxnn88
 Name: VisibleIsland
 
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6016
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/wiki.qaq.colorfulwallpaperx_5.6_iphoneos-arm64.deb
+Size: 1445826
+MD5sum: 447cedceda85e20c45f3f9861dfcc156
+SHA1: 8c6c508971ac50d691bc302509f5b04d5c2625aa
+SHA256: 7f73f0ebbab71e6f516180f15a2d02ce1dc0a31b71fc49ff313a698b7aabf32a
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
