@@ -14,6 +14,24 @@ Description: Enable and fix Dynamic Island on older devices.
 Author: ethxnn88
 Name: VisibleIsland
 
+Package: com.sugiuta.circleapps15
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: sugiuta
+Installed-Size: 2116
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.opa334.altlist
+Filename: debs/com.sugiuta.circleapps15_1.0.2_iphoneos-arm64.deb
+Size: 1525854
+MD5sum: 6f900bf0734b4607da60759a475b95c2
+SHA1: 2bf6ca78c21cc3449dbe668b9c8ace90dfa81012
+SHA256: 32a511faf26ee60e4d0b184d1428a72610519d79d5cc37a14bc9cd8475d66285
+Section: Tweaks
+Description: Circular application launcher for iOS15 above.
+Author: sugiuta
+Conflict: com.sugiuta.circleapps15.trial
+Icon: https://sugiuta.github.io/repo/images/circleapps.png
+Name: CircleApps15
+
 Package: wiki.qaq.colorfulwallpaperx
 Version: 5.6
 Architecture: iphoneos-arm64
