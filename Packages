@@ -1,0 +1,16 @@
+Package: com.ethxnn88.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: ethxnn88
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: debs/com.ethxnn88.visibleisland_2.0_iphoneos-arm64e.deb
+Size: 28176
+MD5sum: e1487edee6e72f2f73125a01af8ae6e6
+SHA1: 319f4e31864dc7b6c2089008600b1abb3108bc80
+SHA256: 82d3b6e38be571fb24b6fa5fd3d658051a629bf59b4393cb3e1e75ee297b87b3
+Section: Tweaks
+Description: Enable and fix Dynamic Island on older devices.
+Author: ethxnn88
+Name: VisibleIsland
+
