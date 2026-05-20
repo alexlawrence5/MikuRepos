@@ -1,0 +1,7 @@
+Origin: VisibleIsland
+Label: Visible Island
+Suite: stable
+Version: 2.0
+Architectures: iphoneos-arm
+Components: main
+Description: An great repo for dynamic island
