@@ -2,6 +2,6 @@ Origin: VisibleIsland
 Label: Visible Island
 Suite: stable
 Version: 2.0
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm64e
 Components: main
 Description: An great repo for dynamic island
