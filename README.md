@@ -1,3 +1,5 @@
+![image](assets/D99901AE-C077-4F2D-A1C6-06C2486A776E.png)
+
 # Miku Repos
 Hello, this is an repo made for Miku fans. :3
 
