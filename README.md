@@ -9,5 +9,10 @@ Only 3. But I will try to add more packages soon!!!!1!1!11!!!
 # Recommended package manager for this
 I highly recommend Zebra. It is highly unstable on Sileo on my iPhone 7+. In Zebra, it works perfectly fine.
 
+# Screenshots
+![screenshot](assets/IMG_0464.webp)
+![screenshot](assets/IMG_0465.webp)
+![screenshot](assets/IMG_0466.webp)
+
 # Creator
 Made with 🩷 by @belgianlinuxuser in TikTok.
